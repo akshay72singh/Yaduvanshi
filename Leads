@@ -1,2 +1,7 @@
-                jhsdgfy8tyjdkhoghu9hibfdasfghjkl;poiuytrewqzxcvbnm,This is Leads file
-and we are member of Leads file
+Actions action = new Actions(driver);
+		WebElement market =driver.findElement(By.xpath("//a[text()='Marketing']"));
+		action.moveToElement(market).perform();
+	
+		driver.findElement(By.linkText("Documents")).click();
+		
+		driver.findElement(By.xpath("//img[@title=\"Create Document...\"]")).click();
