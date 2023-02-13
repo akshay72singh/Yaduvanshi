@@ -33,13 +33,13 @@ public static void main(String[] args) {
 	
 
 }
-public static void m1() {
-	System.setProperty("webdriver.chrome.driver",
-			"C:\\Users\\Admin\\Desktop\\sa\\SeleniumProgram\\drivers\\chromedriver.exe");
-	ChromeDriver driver = new ChromeDriver();
-	driver.get("http://localhost:8888/");
-	String pagesource = driver.getPageSource();
-	System.out.println(pagesource);
+// public static void m1() {
+	// System.setProperty("webdriver.chrome.driver",
+			// "C:\\Users\\Admin\\Desktop\\sa\\SeleniumProgram\\drivers\\chromedriver.exe");
+	// ChromeDriver driver = new ChromeDriver();
+	// driver.get("http://localhost:8888/");
+	// String pagesource = driver.getPageSource();
+	// System.out.println(pagesource);
 //	return pagesource;
 }
 }
