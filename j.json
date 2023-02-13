@@ -1,0 +1,49 @@
+[
+	{
+		"firstName": "akshay",
+		"lastName": "yadav",
+		"distric": "bhadohi",
+		"post": "raya",
+		"academyicDetail": "erwrwe",
+		"highSchool": [
+			"highSchoolName  :  KDICNPJ",
+			"numberOfHighSchool  :  500",
+			"passingYearOfHighSchool : 2017"
+		],
+		"intermediate": [
+			"intermediateSchoolName : SIBSNICB",
+			"numberOfIntermediate : 400",
+			"passingYearOfIntermediate : 2019"
+		],
+		"graduation": [
+			"gradguationSchoolName : RDC",
+			"numberOfGradguation : 500",
+			"passingYearOfGraduation : 2022"
+		]
+	},
+	{
+		"name" : "akshay kumar",
+			"lastName" : "yadav",
+			"Vill" : "Raya",
+			"district" : "Bhadohi",
+			"pinCode": 221401,
+			
+			"HighSchoolDetail": [
+				"nameOfSchool : KDECNPJ",
+				"numberOfHghSchool: 480",
+				"passingYear : 2017"
+			],
+			"interMediateSchoolDetail": [
+				"nameOfSchool : SIBSNICB",
+				"numberOfinterMediate : 480",
+				"passingYear : 2019"
+			],
+			 "id": 50,
+			"studentOf": "gamaBatch",
+			"myRole": "QA_tester",
+			"studentType": "average",
+			"experence": "Oneyear"
+			
+		
+	}
+]
